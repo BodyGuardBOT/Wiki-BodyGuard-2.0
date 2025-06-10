@@ -1,6 +1,6 @@
 # WIKI UFFICIALE DI BODYGUARD 2.0
 
-# USCITA VERISONE 2.0 Venerdì alle 18:00
+**USCITA VERISONE 2.0 Venerdì alle 18:00**
 
 # **Dashboard Web**
 
