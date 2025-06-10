@@ -141,7 +141,7 @@ Pensato per server con esigenze più complesse e strutturate. Include tutto ciò
 **Attivazione e gestione**
 
 Puoi attivare un piano Premium direttamente da Discord, attraverso i comandi integrati o la Dashboard Web. L'abbonamento è valido per un solo server, ma può essere acquistato più volte per usarlo su più server.
-Premium --> https://www.bodyguard.net/premium
+Premium --> https://www.bodyguardbot.net/premium
 
 **Prova gratuita**
 
